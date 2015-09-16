@@ -1,4 +1,11 @@
 Results
+
+Changing the multiplier value from 3.9 to 2.0 made the results seem less chaotic. 
+With the multiplier as 3.9 the numbers jump back and forth between almost 0 and almost 1.
+With the multiplier as 2.0 the numbers rise steadily until they reach .5 and then repeat. 
+Changing the loop counter from 10 to 20 doesnt change the results, it just changes the number of times we get an output when we enter a number.
+
+
 Test 1
 Enter a number between 0 and 1: .5                                                                                                                             
 0.975                                                                                                                                                          
